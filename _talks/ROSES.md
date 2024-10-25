@@ -2,7 +2,7 @@
 title: "161 Reading Online Sports Economics Seminar (ROSES)"
 collection: talks
 type: "talk"
-permalink: /media/
+permalink: /talks/
 date: 2024-10-11
 
 ---

@@ -15,8 +15,8 @@ Education
   
 Talks
 ======
-* 04/25: 2nd Baltimore Sports Economics Conference, Baltimore, USA (Will Present)
-* 02/25: 51st Eastern Economic Association's Annual Meeting, New York, USA (Will Present)
+* 04/25: 2nd Baltimore Sports Economics Conference, Baltimore, USA (Coming Up)
+* 02/25: 51st Eastern Economic Association's Annual Meeting, New York, USA (Coming Up)
 * 10/24: [CLXXVI Reading Online Sports Economics Seminar](https://www.youtube.com/watch?v=FBOQT_6JYmY&t=158s) (Presented)
 * 06/24: 13th European Meeting of the Urban Economics Association, Copenhagen (Presented)
 * 05/24: 8th Football and Finance Conference, Duisburg-Essen (Presented)

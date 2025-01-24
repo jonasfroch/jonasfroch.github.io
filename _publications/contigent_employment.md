@@ -7,7 +7,7 @@ excerpt: 'Temporary workers, often employed in contingent labor arrangements, fr
 date: 2025-01-24
 # venue: 'Working Paper'
 # paperurl: ''
-citation: 'Froch, Jonas; Gürtler, Oliver; Sage, Felix. (2025). ; "Contingent Employment and Effort: Lessons from Soccer"; Working Paper'
+# citation: 'Froch, Jonas; Gürtler, Oliver; Sage, Felix. (2025). ; "Contingent Employment and Effort: Lessons from Soccer"; Working Paper'
 ---
 
 Coming Soon

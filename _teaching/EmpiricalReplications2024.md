@@ -1,5 +1,8 @@
 ---
 title: "Empirical Replications in Sports Economics"
+collection: teaching
+type: "Undergraduate course"
+venue: "University of Cologne"
 date: 2024-10-25
 ---
 

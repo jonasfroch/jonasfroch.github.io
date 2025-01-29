@@ -11,4 +11,4 @@ While there may be some intangible value, such as boosting the host country's im
 
 ## Read the Interview
 You can read about my thoughts here:
-- [Is an Olympics in Budapest a reality?]([https://hu.euronews.com/2024/10/26/van-e-realitasa-egy-budapesti-olimpianak])
+- [Is an Olympics in Budapest a reality?](https://hu.euronews.com/2024/10/26/van-e-realitasa-egy-budapesti-olimpianak)

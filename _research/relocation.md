@@ -8,7 +8,7 @@ distance ring analyses show that the effect is dispersed heterogeneously across 
 date: 2025-04-17
 venue: 'Working Paper'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5009321'
-citation: 'Froch, Jonas. (2025). ; "The Relocation Effect of a Major League Franchise on Residential Property Values"; Working Paper'
+citation: 'Froch, Jonas; (2025); "The Relocation Effect of a Major League Franchise on Residential Property Values"; Working Paper'
 ---
 
 We exploit the relocation of the NFL’s Rams franchise as a natural experiment to estimate the effect of residential proximity to sports amenities using difference-in-differences hedonics. For a sample of single-family homes transacted in St. Louis between 2012 and 2019, we reveal that the relocation has provoked a significant relative price depreciation of 7.52% in housing values within a three-mile impact area. Subsequent

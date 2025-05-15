@@ -12,4 +12,4 @@ However, while the reported impacts are significant, they should be viewed with 
 
 ## Read the Article
 You can read about my thoughts here:
-- [Top sports business: the 59th Super Bowl is coming]([https://hu.euronews.com/2024/10/26/van-e-realitasa-egy-budapesti-olimpianak](https://hu.euronews.com/2025/02/08/csucs-sportbiznisz-jon-az-59-super-bowl))
+- [Top sports business: the 59th Super Bowl is coming](https://hu.euronews.com/2025/02/08/csucs-sportbiznisz-jon-az-59-super-bowl)

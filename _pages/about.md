@@ -29,4 +29,4 @@ I’m always excited to chat about new ideas. If you’re interested in collabor
 I recently taught a hands-on project course for undergraduate Economics students called **Empirical Replications in Sports Economics**. In this course, we dive into the world of sports economics and learn how to conduct empirical research by replicating selected papers using R. It’s a great way for students to engage with the material and develop practical skills!
 
 # 🌍 Upcoming Travels
-I will be in Boston from 29.05-19.06 and would be happy to meet up. Further, I will present our work "Contingent Employment and Effort: Lessons from Soccer" at the upcoming ESEA Sports Economics Conference in Innsbruck, Ausrria.
+I will present our work "Contingent Employment and Effort: Lessons from Soccer" at the upcoming ESEA Sports Economics Conference in Innsbruck, Austria.

@@ -14,7 +14,7 @@ decline in retail trade establishments, as an important transmission mechanism u
 loss in local amenity value. Approximating the aggregate relative housing value depreciation suggests the
 Rams generated substantial intangible amenity value, though insufficient to provide a compelling economic
 rationale for the generous public subsidization seen in recent decades.'
-date: 2025-04-17
+date: 2025-06-18
 venue: 'Working Paper'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5009321'
 citation: 'Froch, Jonas; (2025); "The Relocation Effect of a Major League Franchise on Residential Property Values"; Working Paper'

@@ -16,7 +16,7 @@ Education
   
 Talks
 ======
-* 08/25: ESEA Sports Economics Conference, Innsbruck; Austria (Coming-Up)
+* 08/25: ESEA Sports Economics Conference, Innsbruck; Austria (Presented)
 * 05/25: 11th Football and Finance Conference, Duisburg-Essen, Germany (Presented)
 * 04/25: 2nd Baltimore Sports Economics Conference, Baltimore, USA (Presented)
 * 02/25: 51st Eastern Economic Association's Annual Meeting, New York, USA (Presented)

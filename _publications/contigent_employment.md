@@ -10,5 +10,4 @@ date: 2025-09-03
 # citation: 'Froch, Jonas; Gürtler, Oliver; Sage, Felix. (2025). ; "Contingent Employment and Effort: Lessons from Soccer"; Working Paper'
 ---
 
-Coming Soon
-
+A preliminary version is available upon request.

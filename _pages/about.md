@@ -29,4 +29,4 @@ I’m always excited to chat about new ideas. If you’re interested in collabor
 I recently taught a hands-on project course for undergraduate Economics students called **Empirical Replications in Sports Economics**. In this course, we dive into the world of sports economics and learn how to conduct empirical research by replicating selected papers using R. It’s a great way for students to engage with the material and develop practical skills!
 
 # 🌍 Upcoming Travels
-I will be in Boston in November. Hit me up if you would like to grab a coffee!
+I will visit Prof. Daniele Paserman at Boston University this fall. Hit me up if you would like to grab a coffee!

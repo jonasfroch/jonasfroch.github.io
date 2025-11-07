@@ -11,7 +11,7 @@ redirect_from:
 
 🔬 My research focuses on exploring both the tangible and intangible effects of professional sports teams, facilities, and major sporting events. Specifically, I aim to understand the market idiosyncrasies that position sports facilities and teams as valuable urban amenities.
 
-📊 Further, my experience in sports data analytics at **Impect** sparked my passion for leveraging the unique nuances of sports data to test behavioral insights and economic theories, uncovering patterns and drawing informed conclusions. 
+📊 Further, my experience in sports data analytics at **Impect** sparked my passion for leveraging the unique nuances of sports data to test behavioral insights and economic theories. 
 
 # Current Projects
 ## Working Papers

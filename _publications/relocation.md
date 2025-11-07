@@ -1,8 +1,8 @@
 ---
 title: "The Relocation Effect of a Major League Franchise on Residential Property Values"
-collection: publications
+collection: research
 category: workingpapers
-permalink: /publication/relocation
+permalink: /research/relocation
 excerpt: 'We exploit the relocation of the NFL’s Rams franchise as a natural experiment to estimate the effect of
 residential proximity to sports amenities using difference-in-differences hedonics. For a sample of single-family
 homes transacted in St. Louis between 2012 and 2019, we reveal that the relocation has provoked a

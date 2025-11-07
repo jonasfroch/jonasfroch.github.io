@@ -1,6 +1,6 @@
 ---
 title: "Top sports business: the 59th Super Bowl is coming"
-collection: talks
+collection: media
 type: "Expert Statement"
 permalink: /media/euronews-superbowl
 date: 2025-02-08

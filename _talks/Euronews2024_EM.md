@@ -1,8 +1,8 @@
 ---
 title: "Die Fußball-EM wird die deutsche Wirtschaft nicht aus der Stagnation holen"
-collection: talks
+collection: media
 type: "Expert Interview"
-permalink: /talks/euronews
+permalink: /media/euronews
 date: 2024-06-18
 
 ---

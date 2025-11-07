@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I’m a second-year PhD student in Economics at the University of Cologne, specializing in **Sports Economics**
+👨🏻‍💻 I am a second-year PhD student in Economics at the University of Cologne, specializing in **Sports Economics**
 
 🔬 My research focuses on exploring both the tangible and intangible effects of professional sports teams, facilities, and major sporting events. Specifically, I aim to understand the market idiosyncrasies that position sports facilities and teams as valuable urban amenities.
 
@@ -21,6 +21,7 @@ redirect_from:
 
 ## Work in Progress
 1. The Effect of Ramadan on Playing Performance (jointly with Chengyuan He)
+2. Racial Bias in Newspaper Ratings of Professional Soccer Players - Revisited
 
 ## Collaborations
 I’m always excited to chat about new ideas. If you’re interested in collaborating or just want to exchange thoughts, don’t hesitate to get in touch!
@@ -29,4 +30,4 @@ I’m always excited to chat about new ideas. If you’re interested in collabor
 I recently taught a hands-on project course for undergraduate Economics students called **Empirical Replications in Sports Economics**. In this course, we dive into the world of sports economics and learn how to conduct empirical research by replicating selected papers using R. It’s a great way for students to engage with the material and develop practical skills!
 
 # 🌍 Upcoming Travels
-I will visit Prof. Daniele Paserman at Boston University this fall. Hit me up if you would like to grab a coffee!
+I will visit Prof. Daniele Paserman at Boston University this fall/spring. Hit me up if you would like to grab a coffee!

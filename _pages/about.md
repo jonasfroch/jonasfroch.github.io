@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I am a second-year PhD student in Economics at the University of Cologne, specializing in **Sports Economics**. I will be visiting Boston University in the fall and spring.
+👨🏻‍💻 I am a second-year PhD student in Economics at the University of Cologne, specializing in **Sports Economics**. I am currently visiting Boston University.
 
 🔬 My research focuses on exploring both the tangible and intangible effects of professional sports teams, facilities, and major sporting events. Specifically, I aim to understand the market idiosyncrasies that position sports facilities and teams as valuable urban amenities.
 

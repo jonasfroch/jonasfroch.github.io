@@ -11,7 +11,9 @@ redirect_from:
 
 🔬 My research focuses on exploring both the tangible and intangible effects of professional sports teams, facilities, and major sporting events. Specifically, I aim to understand the market idiosyncrasies that position sports facilities and teams as valuable urban amenities.
 
-📊 Further, my experience in sports data analytics at **Impect** sparked my passion for leveraging the unique nuances of sports data to test behavioral insights and economic theories. 
+📊 Further, my experience in sports data analytics at **Impect** sparked my passion for leveraging the unique nuances of sports data to test behavioral insights and economic theories.
+
+🧠 I am affiliated with the Center for Social and Economic Behavior ([C-SEB](https://c-seb.de/en/)) at the University of Cologne.
 
 # Current Projects
 ## Working Papers

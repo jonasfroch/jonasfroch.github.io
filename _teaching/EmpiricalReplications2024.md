@@ -1,5 +1,5 @@
 ---
-title: "Empirical Replications in Sports Economics"
+title: "Reproduction Workshop Sports Economics"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Cologne"

@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* 10/2024-03/2025: Visiting Researcher at Boston University, hosted by Prof. Daniele Paserman
+* 10/2026-04/2026: Visiting Researcher at Boston University, hosted by Prof. Daniele Paserman
 * Since 10/2024: Ph.D in Economics, University of Cologne, Supervisor: Prof. Dr. Oliver Gürtler
 * 2023-2024: Pre-Doc in Economics, University of Cologne
 * 2021-2023: Master of Public Policy: Economics and Public Policy, SciencesPo Paris 
@@ -17,7 +17,9 @@ Education
   
 Talks
 ======
-* 08/25: ESEA Sports Economics Conference, Innsbruck; Austria (Presented)
+* 08/26: 17th ESEA Sports Economics Conference, Zürich; Switzerland
+* 08/25: 3rd Workshop on Sports, Economics, and Natural Experiments, Stirling; Scotland
+* 08/25: 16th ESEA Sports Economics Conference, Innsbruck; Austria (Presented)
 * 05/25: 11th Football and Finance Conference, Duisburg-Essen, Germany (Presented)
 * 04/25: 2nd Baltimore Sports Economics Conference, Baltimore, USA (Presented)
 * 02/25: 51st Eastern Economic Association's Annual Meeting, New York, USA (Presented)

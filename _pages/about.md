@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I am a third-year PhD student in Economics at the University of Cologne. In the fall of 2025, I visited Boston University, sponsored by Daniele Paserman.
+👨🏻‍💻 I am a third-year PhD student in Economics at the University of Cologne. In the fall of 2025, I visited Boston University, hosted by Daniele Paserman.
 
 🔬 My research exploits natural experiments in sports settings to study decision-making, discrimination, and productivity in the workplace. 
 

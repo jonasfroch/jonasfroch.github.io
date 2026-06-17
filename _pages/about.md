@@ -9,11 +9,9 @@ redirect_from:
 
 👨🏻‍💻 I am a third-year PhD student in Economics at the University of Cologne. In the fall of 2025, I visited Boston University, sponsored by Daniele Paserman.
 
-🔬 My research leverages natural experiments in sports settings to investigate themes such as decision making and human behavior, discrimination, as well as productivity in the workplace. 
+🔬 My research exploits natural experiments in sports settings to study decision-making, discrimination, and productivity in the workplace. 
 
-My research focuses on exploring both the tangible and intangible effects of professional sports teams, facilities, and major sporting events. Specifically, I aim to understand the market idiosyncrasies that position sports facilities and teams as valuable urban amenities.
-
-📊 Further I am interested in the intangible impact of professional sports on local economies. Specifically, I aim to understand the market idiosyncrasies that position sports facilities and teams as urban amenities.
+📊 I am also interested in the intangible effects of professional sports on local economies. Specifically, I aim to understand the market idiosyncrasies through which sports facilities and teams act as urban amenities.
 
 🧠 I am affiliated with the Center for Social and Economic Behavior ([C-SEB](https://c-seb.de/en/)) at the University of Cologne.
 

@@ -29,7 +29,7 @@ redirect_from:
 I’m always excited to chat about new ideas. If you’re interested in collaborating or just want to exchange thoughts, don’t hesitate to get in touch!
 
 # 📚 Teaching
-I have been teaching a hands-on project course for undergraduate Economics students called **Empirical Replications in Sports Economics** for the past two years. In this course, we dive into the world of sports economics and learn how to conduct empirical research by reproducing selected papers using R. It’s a great way for students to engage with the material and develop practical skills!
+I have been teaching a hands-on project course for undergraduate Economics students called **Reproduction Workshop Sports Economics** for the past two years. In this course, we dive into the world of sports economics and learn how to conduct empirical research by reproducing selected papers using R. It’s a great way for students to engage with the material and develop practical skills!
 
 # 🌍 Upcoming Travels
 I will present my research at the 3rd Workshop on Sports, Economics, and Natural Experiments in Stirling (June) as well as at the 17th ESEA conference on Sports Economics in Zürich (August).

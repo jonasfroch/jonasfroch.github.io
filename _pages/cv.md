@@ -17,8 +17,8 @@ Education
   
 Talks
 ======
-* 08/26: 17th ESEA Sports Economics Conference, Zürich; Switzerland
-* 08/25: 3rd Workshop on Sports, Economics, and Natural Experiments, Stirling; Scotland
+* 08/26: 17th ESEA Sports Economics Conference, Zürich; Switzerland (Presented)
+* 06/26: 3rd Workshop on Sports, Economics, and Natural Experiments, Stirling; Scotland (Presented)
 * 08/25: 16th ESEA Sports Economics Conference, Innsbruck; Austria (Presented)
 * 05/25: 11th Football and Finance Conference, Duisburg-Essen, Germany (Presented)
 * 04/25: 2nd Baltimore Sports Economics Conference, Baltimore, USA (Presented)

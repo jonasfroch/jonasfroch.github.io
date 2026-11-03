@@ -1,7 +1,9 @@
 ---
 title: "Religious Fasting and Workplace Productivity"
 category: workingpapers
-permalink: /research/religous_fasting
+layout: single
+author_profile: true
+permalink: /research/religious_fasting
 excerpt: "We investigate the effect of Ramadan fasting on individual worker productivity in a high-stakes, highly competitive setting in which workers face strong economic incentives, can be tracked individually over time, and produce output that is consistently measurable through algorithmic performance ratings. Crucially, because workers have no discretion over their hours or working conditions, we can isolate the direct productivity channel from the labor supply and on-the-job behavioral responses that fasting typically induces. Drawing on sixteen years of granular data from two countries, we employ a difference-indifferences design comparing the relative performance of Muslim and non-Muslim workers within and outside Ramadan. At the worker level we find no significant Ramadan effect, while accounting for various measures of fasting intensity. We do, however, find suggestive evidence of small negative spillovers from Muslim colleagues, partly offset by a positive effect of facing Muslim workers in the competing firm. This pattern carries over to the firm level, where output declines in the number of Muslim workers a firm relies on during Ramadan. Finally, we find no substantial labor demand responses at either the intensive or the extensive margin, and discuss three explanations for the predominantly null findings, namely worker adaptation, the production technology, and organizational accommodation."
 date: 2026-10-26
 venue: 'Working Paper'

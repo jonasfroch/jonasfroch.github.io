@@ -23,8 +23,8 @@ redirect_from:
 3. **Showing Visibility When it Matters: Career Concerns in Contingent Employment Arrangements**  (with Oliver Gürtler & Felix Sage)[available upon request]
 
 ## Work in Progress
-1. Racial Bias in Newspaper Ratings of Professional Soccer Players - Revisited
-2. Betting Market (In)Efficiency: A Multiple Strategy Approach (with Julian Bach & David Winkelmann)
+1. Betting Market (In)Efficiency: A Multiple Strategy Approach (with Julian Bach & David Winkelmann)
+2. Racial Bias in Newspaper Ratings of Professional Soccer Players - Revisited
 
 ## Collaborations
 I’m always excited to chat about new ideas. If you’re interested in collaborating or just want to exchange thoughts, don’t hesitate to get in touch!

@@ -19,8 +19,8 @@ redirect_from:
 ## Working Papers
 1. **The Relocation Effect of a Major League Franchise on Residential Property Values**
    (Under Review); [Read More](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5009321)
-2. **Showing Visibility When it Matters: Career Concerns in Contingent Employment Arrangements**  (with Oliver Gürtler & Felix Sage)[available upon request]
-3. **Religious Fasting and Elite Performance** (with Chengyuan Hua & Galila Nasser)(Submitted); [Read More]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7672099)
+2. **Religious Fasting and Workplace Productivity** (with Chengyuan Hua & Galila Nasser)(Submitted); [Read More](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7672099)
+3. **Showing Visibility When it Matters: Career Concerns in Contingent Employment Arrangements**  (with Oliver Gürtler & Felix Sage)[available upon request]
 
 ## Work in Progress
 1. Racial Bias in Newspaper Ratings of Professional Soccer Players - Revisited
